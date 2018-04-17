@@ -254,7 +254,7 @@ window to work on these things.
 
    I'm not at a level where I could complete a basic application from start to
    finish using Haskell (quite far) but I will still enjoy to learn with someone else
-   as both a way to keep me motivated and a way to learn faster and share our experience,
+   as both a way to keep me motivated, learn faster and share our experience,
    maybe we even manage to work on something together.
 
 3. Interests (Current learning progress)
